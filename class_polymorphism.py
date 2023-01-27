@@ -26,6 +26,8 @@ class ParentB:
 # **********************************************
 # Define the child with 2 parents class Child(ParentA, ParentB) color=ORANGE
 class Child(ParentA, ParentB):
+
+    # Use the method_a from class Child
     def method_a(self):
         print(f"{ORANGE}my_child_class_instance{END}")
         print(f"{ORANGE}I am method_a from child class. I overwrite the parent class\n{END}")
