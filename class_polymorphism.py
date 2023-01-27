@@ -24,7 +24,7 @@ class ParentB:
 
 
 # **********************************************
-# Define the child with 2 parents class Child(ParentA, ParentB)
+# Define the child with 2 parents class Child(ParentA, ParentB) color=ORANGE
 class Child(ParentA, ParentB):
     def method_a(self):
         print(f"{ORANGE}my_child_class_instance{END}")
