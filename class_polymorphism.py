@@ -59,4 +59,4 @@ my_child_class_instance.method_xx()
 
 print('\n***  Use ParentA class method_a ***')
 # Use Parent_a class method_xx
-my_b_class_instance.choose_parent_b()
+my_child_class_instance.choose_parent_b()
