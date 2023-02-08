@@ -22,7 +22,5 @@
 # **Credits:**
     Alin Rizea
     https://www.linkedin.com/in/alin-rizea-b10368104/
-    
-    John Dorman
-    https://www.linkedin.com/in/john-george-dorman/
+
        
